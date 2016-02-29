@@ -4,19 +4,39 @@ h3 {
 }
 h1 {
   text-align:center;
+  text-transform: capitalize;
+  color:darkred;
+  font-size:20px;
+  height: 2em;
+  background-color: rgb(0, 110, 110);
+  width: 100%;
+  opacity: 1.0;
+  z-index: 1;
 }
 header {
   margin:auto;
-  background-color:gray;
+  background-color:rgb(0, 110, 110);
   border:none;
-  border-radius:5%;
+  opacity:.7;
+}
+p{
+  width: 70%;
+  text-align: center;
+  margin: auto;
 }
 a {
   text-decoration:none;
+  color: inherit;
 }
 title {
   color:red;
 }
 #linkin {
   text-decoration:none;
+}
+hr{
+  border-color:darkred;
+}
+body{
+  background-color:#6e0000;
 }
