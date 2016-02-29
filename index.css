@@ -1,4 +1,4 @@
-html, body, header, div{
+html, body, header, header>div{
   height:100%;
 }
 h3 {
