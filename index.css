@@ -7,8 +7,16 @@ h1 {
 }
 header {
   margin:auto;
-  
+  background-color:gray;
+  border:none;
+  border-radius:5%;
 }
 a {
+  text-decoration:none;
+}
+title {
+  color:red;
+}
+#linkin {
   text-decoration:none;
 }
